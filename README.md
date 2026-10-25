@@ -40,7 +40,7 @@ that's a brief intro into how the course will look like
 ### Reverse Engineering
 
 Раздел посвящён изучению устройства программ, языка C, машинного кода, анализу исполняемых файлов и основам Binary Exploitation (PWN).
-[*Подробная структура модуля*](https://github.com/onlyoneflow/Reverse-Engenering-course/edit/main/plan)
+[*Подробная структура модуля*](https://github.com/onlyoneflow/Reverse-Engenering-course/edit/main/plan.md)
 
 Реализуется мной   onlyoneflow
 и еще я занимаюсь частью хостинга, модулями и контейнерами 
